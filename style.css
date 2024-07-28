@@ -1,0 +1,16 @@
+.hero {
+    background-color: #FFF8F3;
+}
+
+.hero h1 {
+    color: #405D72 !important;
+}
+
+h2,h3 {
+    color: #758694;
+}
+
+.footer {
+    background-color: #405D72;
+    color: white;
+}
